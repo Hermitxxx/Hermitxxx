@@ -25,7 +25,7 @@ Hey there! I'm **Reazul Hassan Hira**, a passionate **MERN Stack Developer** bas
 - 🌱 Building a **full-stack tourism web application** from scratch  
 - 💡 Exploring **RESTful API design** and best backend practices  
 - 🤝 Open to **collaborations** on interesting open-source projects  
-- 🎯 Goal: Become a **Full-Stack Software Engineer** in 2025
+- 🎯 Goal: Become a **Front-end Specialist** by the end of 2026
 
 ---
 
@@ -85,7 +85,7 @@ Hey there! I'm **Reazul Hassan Hira**, a passionate **MERN Stack Developer** bas
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zzZMELCX)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/hermitdev/))
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://snapchat.com/add/YOUR_SNAPCHAT_USERNAME)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@YOUR_TIKTOK_USERNAME)
 [![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://thehermit.tech/)
